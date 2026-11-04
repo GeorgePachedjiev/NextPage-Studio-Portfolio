@@ -353,7 +353,7 @@ const I18N = {
     "about.fact.edu.label": "Education",
     "about.fact.edu.value": "Software Technologies and Design · Paisii Hilendarski University of Plovdiv",
     "about.fact.projects.label": "Projects",
-    "about.fact.projects.value": "20 websites built",
+    "about.fact.projects.value": "40+ websites built",
     "about.fact.focus.label": "Focus",
     "about.fact.focus.value": "Web design & development",
 
