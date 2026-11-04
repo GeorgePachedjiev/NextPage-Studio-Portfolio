@@ -201,7 +201,7 @@ const I18N = {
     "about.fact.edu.label": "Образование",
     "about.fact.edu.value": "Софтуерни технологии и дизайн · Пловдивски университет „Паисий Хилендарски“",
     "about.fact.projects.label": "Проекти",
-    "about.fact.projects.value": "20 създадени уебсайта",
+    "about.fact.projects.value": "40+ създадени уебсайта",
     "about.fact.focus.label": "Фокус",
     "about.fact.focus.value": "Уеб дизайн и разработка",
 
